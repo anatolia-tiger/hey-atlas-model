@@ -1,0 +1,11 @@
+{
+  "wake_word": {
+    "hey-atlas": {
+      "model": "https://github.com/anatolia-tiger/hey-atlas-model/raw/refs/heads/main/hey-atlas.ppn",
+      "version": "1.0.0",
+      "lang": "tr",
+      "author": "anatolia-tiger",
+      "license": "Picovoice"
+    }
+  }
+}
